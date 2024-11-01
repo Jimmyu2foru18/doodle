@@ -1,7 +1,5 @@
 # Doodle Game
 
-![Doodle Game Screenshot](assets/screenshot.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
