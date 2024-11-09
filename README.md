@@ -1,4 +1,4 @@
-# Doodle Game
+# Doodle Board
 
 ## Table of Contents
 
