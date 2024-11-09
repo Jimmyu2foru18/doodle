@@ -104,31 +104,6 @@ To create a standalone executable using PyInstaller:
 
    After the build process completes, the executable `doodleJ.exe` will be located in the `dist` folder.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add new feature"
-   ```
-
-4. **Push to the Branch**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a Pull Request**
-
 ## Acknowledgements
 
 - [Pygame](https://www.pygame.org/) for making game development in Python enjoyable.
